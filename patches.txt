@@ -1,5 +1,4 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
-custom-branding
 custom-playback-speed
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 swipe-controls

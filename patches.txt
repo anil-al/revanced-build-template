@@ -1,6 +1,7 @@
 # EXCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 custom-playback-speed 
-custom-branding
+custom-branding 
+client-spoof
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 swipe-controls
 settings
